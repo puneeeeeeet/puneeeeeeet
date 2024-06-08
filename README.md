@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hi, I'm Puneet Chhabra! </h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://giphy.com/clips/theoffice-the-office-peacock-tv-show-S8EYwg8wmyokVZOLGp)" width="230">
+<img align='right' src="[[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://giphy.com/clips/theoffice-the-office-peacock-tv-show-S8EYwg8wmyokVZOLGp)](https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b76113c22r342ztv7a4t28bavjupsrm52ehp5w3g2eavr&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlp
