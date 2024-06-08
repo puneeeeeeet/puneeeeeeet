@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hi, I'm Puneet Chhabra! </h2>
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd2am1reTZ4ejhzcDZxdWpiZHhha21ocTh3bTJodnZiazl2NTZydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GltC4HZLjJLvq/giphy.gif" >
+<!-- <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd2am1reTZ4ejhzcDZxdWpiZHhha21ocTh3bTJodnZiazl2NTZydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GltC4HZLjJLvq/giphy.gif" >
 <p><em>Currently studying engineering at Chandigarh University<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
   Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlp">
+ -->
